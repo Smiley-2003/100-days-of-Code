@@ -25,13 +25,13 @@ int main(){
     }
     cout<<maxNo<<" "<<minNo<<endl;
     
-    for(int i=0; i<n; i++){
-        if(arr[i] > maxNo){
-            maxNo = arr[i];
-        }
-        if(arr[i] < minNo){
-            minNo = arr[i];
-        }
-    }
+    // for(int i=0; i<n; i++){
+    //     if(arr[i] > maxNo){
+    //         maxNo = arr[i];
+    //     }
+    //     if(arr[i] < minNo){
+    //         minNo = arr[i];
+    //     }
+    // }
     
 }
