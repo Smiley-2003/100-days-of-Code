@@ -1,5 +1,7 @@
 // You are using GCC
 // Check whether Number is Even or Odd using if else
+// Author: Naina Mogha
+// Date: 20 June 2024
 #include<iostream>
 using namespace std;
 
