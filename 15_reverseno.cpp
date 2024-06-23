@@ -8,8 +8,9 @@ int main(){
     int n; //integer is n
     cin>>n;
     
-    int reverse;
-    while(n>0){
+    int reverse; //declare inverse
+    
+    while(n>0){// n is greater than 0
         
         // 43 % 10 = 3
         int lastdigit = n % 10;
