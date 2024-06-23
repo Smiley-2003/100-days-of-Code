@@ -1,5 +1,6 @@
-// You are using GCC
-// You are using GCC
+// CHeck if a number is prime or not
+// Name : Naina Mogha
+// Date : 23 June 2024
 #include<iostream>
 #include<cmath>
 
