@@ -2,10 +2,6 @@
 //Author: Naina Mogha
 //Functions questions
 
-//Sum of n natural numbers
-//Author: Naina Mogha
-//Functions questions
-
 #include<bits/stdc++.h>
 using namespace std;
 
