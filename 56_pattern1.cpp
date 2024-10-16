@@ -12,3 +12,9 @@ void pattern3(int N)
         cout<<endl;
     }
 }
+int main()
+{
+    int N = 5;
+    pattern3(N);
+    return 0;
+}
